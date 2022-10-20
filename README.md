@@ -21,3 +21,5 @@ conda activate MOBA02
 jupyter lab
 ```
 6. Now you can open the Notebook.ipynb and run through the cells to process and plot my example data
+
+7. Exchange the example data with your own data and try to follow what the notebook does!
